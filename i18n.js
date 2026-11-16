@@ -1,0 +1,72 @@
+export const copy = {
+  uz: {
+    choose: "Tilni tanlang", continueGoogle: "Google orqali kirish",
+    welcome: "Xush kelibsiz", warningTitle: "DIQQAT",
+    warning: "DAXRONE — sun’iy intellekt. U xato qilishi mumkin. Muhim ma’lumotlarni tekshirib oling.",
+    close: "Yopish", placeholder: "DAXRONE'ga xabar yozing...",
+    disclaimer: "Diqqat: DAXRONE AI xato qilishi mumkin.",
+    thinking: "DAXRONE o‘ylayapti", newChat: "Yangi chat", history: "Chatlar tarixi",
+    settings: "Sozlamalar", appearance: "Ko‘rinish", language: "Til",
+    dark: "Qorong‘i", light: "Yorug‘", system: "Tizim", signOut: "Chiqish",
+    expand: "Chatni kengaytirish", empty: "Suhbatni boshlang",
+    quota: "UZUR AMMO DAXRONE CHARCHADI. ERTAGA KELSANGIZ SUHBATNI DAVOM ETAMIZ.",
+    loginError: "Google orqali kirishda xatolik yuz berdi.",
+    send: "Yuborish", about: "DAXRONE haqida"
+  },
+  ru: {
+    choose: "Выберите язык", continueGoogle: "Войти через Google",
+    welcome: "Добро пожаловать", warningTitle: "ВНИМАНИЕ",
+    warning: "DAXRONE — искусственный интеллект. Он может ошибаться. Проверяйте важную информацию.",
+    close: "Закрыть", placeholder: "Напишите DAXRONE...",
+    disclaimer: "Внимание: DAXRONE AI может ошибаться.",
+    thinking: "DAXRONE думает", newChat: "Новый чат", history: "История чатов",
+    settings: "Настройки", appearance: "Внешний вид", language: "Язык",
+    dark: "Тёмная", light: "Светлая", system: "Системная", signOut: "Выйти",
+    expand: "Развернуть чат", empty: "Начните разговор",
+    quota: "ИЗВИНИТЕ, DAXRONE УСТАЛ. ПРИХОДИТЕ ЗАВТРА, И МЫ ПРОДОЛЖИМ РАЗГОВОР.",
+    loginError: "Не удалось войти через Google.",
+    send: "Отправить", about: "О DAXRONE"
+  },
+  en: {
+    choose: "Choose your language", continueGoogle: "Continue with Google",
+    welcome: "Welcome", warningTitle: "PLEASE NOTE",
+    warning: "DAXRONE is an AI and may make mistakes. Verify important information.",
+    close: "Close", placeholder: "Message DAXRONE...",
+    disclaimer: "Note: DAXRONE AI may make mistakes.",
+    thinking: "DAXRONE is thinking", newChat: "New chat", history: "Chat history",
+    settings: "Settings", appearance: "Appearance", language: "Language",
+    dark: "Dark", light: "Light", system: "System", signOut: "Sign out",
+    expand: "Expand chat", empty: "Start a conversation",
+    quota: "SORRY, BUT DAXRONE IS TIRED. COME BACK TOMORROW AND WE'LL CONTINUE OUR CONVERSATION.",
+    loginError: "Google sign-in failed.",
+    send: "Send", about: "About DAXRONE"
+  },
+  ar: {
+    choose: "اختر اللغة", continueGoogle: "المتابعة باستخدام Google",
+    welcome: "مرحباً", warningTitle: "تنبيه",
+    warning: "DAXRONE ذكاء اصطناعي وقد يخطئ. يرجى التحقق من المعلومات المهمة.",
+    close: "إغلاق", placeholder: "اكتب رسالة إلى DAXRONE...",
+    disclaimer: "تنبيه: قد يخطئ DAXRONE AI.",
+    thinking: "يفكر DAXRONE", newChat: "محادثة جديدة", history: "سجل المحادثات",
+    settings: "الإعدادات", appearance: "المظهر", language: "اللغة",
+    dark: "داكن", light: "فاتح", system: "النظام", signOut: "تسجيل الخروج",
+    expand: "توسيع المحادثة", empty: "ابدأ محادثة",
+    quota: "عذراً، لقد تعب DAXRONE. عُد غداً لمتابعة المحادثة.",
+    loginError: "تعذّر تسجيل الدخول باستخدام Google.",
+    send: "إرسال", about: "حول DAXRONE"
+  },
+  tr: {
+    choose: "Dil seçin", continueGoogle: "Google ile devam et",
+    welcome: "Hoş geldiniz", warningTitle: "DİKKAT",
+    warning: "DAXRONE bir yapay zekâdır ve hata yapabilir. Önemli bilgileri doğrulayın.",
+    close: "Kapat", placeholder: "DAXRONE'a mesaj yazın...",
+    disclaimer: "Dikkat: DAXRONE AI hata yapabilir.",
+    thinking: "DAXRONE düşünüyor", newChat: "Yeni sohbet", history: "Sohbet geçmişi",
+    settings: "Ayarlar", appearance: "Görünüm", language: "Dil",
+    dark: "Koyu", light: "Açık", system: "Sistem", signOut: "Çıkış yap",
+    expand: "Sohbeti genişlet", empty: "Bir sohbet başlatın",
+    quota: "ÜZGÜNÜZ, DAXRONE YORULDU. SOHBETE DEVAM ETMEK İÇİN YARIN TEKRAR GELİN.",
+    loginError: "Google ile giriş başarısız oldu.",
+    send: "Gönder", about: "DAXRONE hakkında"
+  }
+};
